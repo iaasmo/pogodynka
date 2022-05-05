@@ -29,12 +29,20 @@ export default {
 </script>
 <style lang="scss">
   .item{
-    border: 2px dashed red;
+      width:fit-content;
+      box-shadow:0 0 5px #000;
+      color:#fff;
+      background: linear-gradient(rgb(53, 185, 247), rgb(102, 102, 102));
+      border-radius:5px;
+       // border:2px dashed red;
+      padding:.5em;
+      font-weight:bold;
     .icon{
-      border: 2px dashed blue;
+      border-radius: 5px;
+      background: rgb(255, 255, 255);
     }
     .temp{
-      border: 2px dashed green;
+      margin: .5em;
     }
     .img{
       width: 100px;
