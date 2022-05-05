@@ -1,0 +1,1 @@
+.item{border:2px dashed red}.item .icon{border:2px dashed blue}.item .temp{border:2px dashed green}.item .img{width:100px;height:100px}.dailyWrapper{display:flex;justify-content:center;flex-wrap:wrap}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50}
